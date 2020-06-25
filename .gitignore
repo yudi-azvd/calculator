@@ -1,1 +1,4 @@
 *-calculator/
+
+# Relacionado ao VScode
+*.code-workspace

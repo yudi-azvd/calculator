@@ -6,12 +6,13 @@ algumas operações básicas utilizando listas lincadas, pilhas e conversão ent
 as formas infixa e pós-fixa.
 
 
-## C
-A calculadora funciona para expressões simples que são entradas pelo usuário no terminal depois de excutar o comando
-`./C/buid/calculator`
+## [Calculadora em C](https://github.com/yudi-azvd/c-calculator#-calculadora-em-c)
+A calculadora funciona para expressões simples que são entradas pelo usuário no terminal.
+
+![gif da calculadora](https://github.com/yudi-azvd/c-calculator/blob/master/.github/calculator.gif)
 
 
-## Em um futuro não tão distante
+## Mais calculadoras em um futuro não tão distante...
 ~assim eu espero~ Serão implementadas outras calculadoras explorando diferentes 
 linguagens, ambientes e arquiteturas/organizações de software. Talvez eu até tente 
-fazer GUIs em algumas dessas tentativas.
+fazer GUIs com abordagens diferentes de UX/UI em algumas dessas tentativas.
